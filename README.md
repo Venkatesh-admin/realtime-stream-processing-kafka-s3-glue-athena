@@ -228,6 +228,3 @@ These steps will create an IAM user with programmatic access and allow you to us
 - **Permissions and Security**
   - Ensure that the IAM roles used by Glue and Athena have the necessary permissions to access S3 and other resources.
 
----
-
-This guide provides a complete workflow for moving data from Kafka to S3, analyzing it with AWS Glue and Athena.
